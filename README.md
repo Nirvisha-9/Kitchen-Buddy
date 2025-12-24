@@ -47,4 +47,3 @@ http://localhost:5000
 
 Enter the ingredients you have at home to see recipes you can make.
 
-Contributing
