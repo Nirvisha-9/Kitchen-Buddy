@@ -205,7 +205,7 @@
         "TemplateURL": "https://s3.amazonaws.com/amplify-awsxinrixhackathon-dev-c1e4d-deployment/amplify-cfn-templates/function/awsxinrixhackathon59d511cd-cloudformation-template.json",
         "Parameters": {
           "deploymentBucketName": "amplify-awsxinrixhackathon-dev-c1e4d-deployment",
-          "s3Key": "amplify-builds/awsxinrixhackathon59d511cd-4d355355764a485a7775-build.zip",
+          "s3Key": "amplify-builds/awsxinrixhackathon59d511cd-6a324644493339536450-build.zip",
           "env": "dev"
         }
       }
@@ -215,8 +215,6 @@
       "Properties": {
         "TemplateURL": "https://s3.amazonaws.com/amplify-awsxinrixhackathon-dev-c1e4d-deployment/amplify-cfn-templates/function/awsxinrixhackathon19e0a6eb-cloudformation-template.json",
         "Parameters": {
-          "deploymentBucketName": "amplify-awsxinrixhackathon-dev-c1e4d-deployment",
-          "s3Key": "amplify-builds/awsxinrixhackathon19e0a6eb-43497531765471387364-build.zip",
           "env": "dev"
         }
       }
@@ -226,8 +224,6 @@
       "Properties": {
         "TemplateURL": "https://s3.amazonaws.com/amplify-awsxinrixhackathon-dev-c1e4d-deployment/amplify-cfn-templates/function/NavigationAI-cloudformation-template.json",
         "Parameters": {
-          "deploymentBucketName": "amplify-awsxinrixhackathon-dev-c1e4d-deployment",
-          "s3Key": "amplify-builds/NavigationAI-302f73463156646d6b56-build.zip",
           "env": "dev"
         }
       }

@@ -4,9 +4,9 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
-src = {editable = true, path = "./src"}
+# src = {editable = true, path = "./src"} <-- REMOVED THIS LINE
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.9"
